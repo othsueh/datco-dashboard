@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(npx:*)",
+      "Bash(mkdir -p /tmp/datco_bootstrap)",
+      "Read(//tmp/**)",
+      "Bash(cp /private/tmp/datco_bootstrap/datco-dashboard/.gitignore /Users/othsueh/Development/350small_project/DATco_Dashboard/.gitignore)",
+      "Bash(cp /private/tmp/datco_bootstrap/datco-dashboard/eslint.config.mjs /Users/othsueh/Development/350small_project/DATco_Dashboard/eslint.config.mjs)",
+      "Bash(cp /private/tmp/datco_bootstrap/datco-dashboard/next-env.d.ts /Users/othsueh/Development/350small_project/DATco_Dashboard/next-env.d.ts)",
+      "Bash(cp /private/tmp/datco_bootstrap/datco-dashboard/next.config.ts /Users/othsueh/Development/350small_project/DATco_Dashboard/next.config.ts)",
+      "Bash(cp /private/tmp/datco_bootstrap/datco-dashboard/package.json /Users/othsueh/Development/350small_project/DATco_Dashboard/package.json)",
+      "Bash(cp -R /private/tmp/datco_bootstrap/datco-dashboard/app /Users/othsueh/Development/350small_project/DATco_Dashboard/app)",
+      "Bash(cp -R /private/tmp/datco_bootstrap/datco-dashboard/public /Users/othsueh/Development/350small_project/DATco_Dashboard/public)",
+      "Bash(cp -R /private/tmp/datco_bootstrap/datco-dashboard/node_modules /Users/othsueh/Development/350small_project/DATco_Dashboard/node_modules)",
+      "Bash(npm install:*)"
+    ]
+  }
+}

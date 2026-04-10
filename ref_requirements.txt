@@ -1,0 +1,69 @@
+## Goal
+The objective of this mvp is to develop a web-based platform that monitors and visualizes selected financial indicators to assist investment and trading decisions.
+
+In particular, you are required to focus on indicators related to DAT.co (Digital Asset Treasury companies).
+These indicators are commonly used in crypto markets to evaluate the valuation and behavior of companies holding Bitcoin or other digital assets.
+
+By building this system, you will gain experience in:
+
+- Financial data collection
+- Indicator analysis
+- Web-based visualization
+- (Optional) AI-assisted insights
+
+## Task Description
+You are required to design and implement a website that allows users to observe the time-series behavior of a chosen DAT.co-related indicator.
+
+### Requirements
+1. Select an Indicator
+    Choose one indicator related to DAT.co.
+    Examples include (but are not limited to):
+
+    - mNAV (Modified Net Asset Value)
+    - Premium to NAV
+    - Discount to NAV
+    - ETF Flows
+    - Geopolitical Events
+    - FED Policies
+    - Miners' Support Line
+2. Data Collection
+    Identify and obtain the data source for your chosen indicator.
+    Possible approaches include:
+
+    - Using public APIs
+    - Web scraping from financial or crypto-related websites
+    - Aggregating data from multiple sources
+
+3. Data Visualization
+    Build a user interface (UI) that allows users to:
+
+    Observe the indicator over time (daily frequency)
+
+4. AI-Generated Summary (Optional Bonus)
+    Integrate any LLM API (e.g., OpenAI API, Gemini API, Claude API) to:
+
+    - Automatically generate summaries or insights based on the indicator data
+    - Provide interpretation or trend analysis
+
+5. Deployment
+    Deploy your website to a publicly accessible domain (you can consider using Vercel, GCP, AWS, etc.).
+
+6. Report Writing
+    Submit a report describing your work.
+
+## Report Requirements
+Your report should include the following:
+
+1. Selected Indicator
+
+    - What indicator did you choose?
+    - Why did you choose it?
+
+2. Relationship with Bitcoin (BTC)
+
+    - Explain how your indicator is related to BTC
+    - Provide insights or hypotheses about how it affects or reflects BTC price behavior
+
+3. Deployed Website URL
+
+    - Provide the link to your live website
