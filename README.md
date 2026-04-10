@@ -119,13 +119,7 @@ The `/company/<ticker>` page shows these time-series individually and the
 
 ## 3. Deployed Website URL
 
-**TBD — deployment planned via Vercel.**
-
-The site is a standard Next.js 16 app and will be deployed via Vercel's
-one-click GitHub import. After the first deploy this URL should be pasted
-back into this section.
-
-> Placeholder: `https://<your-vercel-project>.vercel.app/`
+https://datco-dashboard-three.vercel.app/
 
 ---
 
