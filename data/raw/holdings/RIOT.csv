@@ -1,0 +1,10 @@
+# Riot Platforms (RIOT) BTC treasury holdings purchase-event series.
+# Values are approximate and seeded for MVP demo purposes from public disclosures.
+# The final cumulative total (~17k BTC) targets reality for early 2026.
+date,btc_total,source_url
+2024-11-11,10427,https://www.riotplatforms.com/investors
+2025-02-03,16728,https://www.riotplatforms.com/investors
+2025-06-15,16900,https://www.riotplatforms.com/investors
+2025-09-30,17050,https://www.riotplatforms.com/investors
+2026-01-15,17130,https://www.riotplatforms.com/investors
+2026-03-05,17175,https://www.riotplatforms.com/investors

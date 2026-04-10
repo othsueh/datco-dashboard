@@ -1,0 +1,23 @@
+- ticker: MSTR
+  name: Strategy Inc.
+  yf_symbol: MSTR
+  brand_color: "#f97316"
+- ticker: MTPLF
+  name: Metaplanet Inc.
+  yf_symbol: MTPLF # use the OTC ADR; if unavailable, fall back to 3350.T and document
+  brand_color: "#22c55e"
+- ticker: MARA
+  name: MARA Holdings
+  yf_symbol: MARA
+  brand_color: "#3b82f6"
+- ticker: SMLR
+  name: Strive (ex-Semler Scientific)
+  # Semler Scientific (SMLR) was acquired by Strive, Inc. (ASST) on 2025-12-12
+  # and ceased trading under SMLR. We keep the dashboard key "SMLR" for
+  # historical continuity but fetch prices from ASST (the surviving Nasdaq listing).
+  yf_symbol: ASST
+  brand_color: "#a855f7"
+- ticker: RIOT
+  name: Riot Platforms
+  yf_symbol: RIOT
+  brand_color: "#ef4444"

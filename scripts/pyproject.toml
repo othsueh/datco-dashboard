@@ -1,0 +1,27 @@
+[project]
+name = "datco-pipeline"
+version = "0.1.0"
+description = "DAT.co Dashboard data pipeline: fetches BTC + stock prices and computes mNAV / premium / correlation indicators."
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "DATco Dashboard", email = "ych930719@gmail.com" }
+]
+dependencies = [
+    "yfinance>=0.2.40",
+    "requests>=2.32",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pyyaml>=6.0",
+    "anthropic>=0.93.0",
+]
+
+[project.scripts]
+datco-pipeline = "src.run_pipeline:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

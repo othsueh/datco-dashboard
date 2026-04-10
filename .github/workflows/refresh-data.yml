@@ -1,0 +1,66 @@
+name: Refresh DAT data
+
+# Nightly data refresh for the DAT.co Dashboard.
+#
+# Runs after US market close (07:00 UTC ~= 03:00 ET), re-executes the Python
+# pipeline under `scripts/`, and commits any updated JSON back to the branch.
+#
+# The pipeline is written to succeed even when ANTHROPIC_API_KEY is missing
+# (it falls back to a deterministic summary), so this workflow will not fail
+# if the secret is not configured.
+
+on:
+  schedule:
+    # 07:00 UTC every day — shortly after US equities close.
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    name: Run pipeline and commit refreshed data
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          cache-dependency-glob: "scripts/uv.lock"
+
+      - name: Install pipeline dependencies
+        working-directory: scripts
+        run: uv sync --frozen
+
+      - name: Run data pipeline
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: uv run python -m src.run_pipeline
+
+      - name: Commit refreshed data
+        run: |
+          set -euo pipefail
+          git config user.name "datco-bot"
+          git config user.email "datco-bot@users.noreply.github.com"
+
+          git add public/data data/raw 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(data): nightly refresh $(date -u +'%Y-%m-%d')"
+          git push

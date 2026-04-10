@@ -1,0 +1,10 @@
+# Semler Scientific (SMLR) BTC treasury holdings purchase-event series.
+# Values are approximate and seeded for MVP demo purposes from public disclosures.
+# The final cumulative total (~5k BTC) targets reality for early 2026.
+date,btc_total,source_url
+2024-07-01,1570,https://ir.semlerscientific.com/
+2024-10-10,1873,https://ir.semlerscientific.com/
+2025-01-13,2321,https://ir.semlerscientific.com/
+2025-05-20,3808,https://ir.semlerscientific.com/
+2025-09-30,4636,https://ir.semlerscientific.com/
+2026-02-14,5021,https://ir.semlerscientific.com/

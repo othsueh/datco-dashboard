@@ -1,0 +1,21 @@
+# MicroStrategy / Strategy Inc. BTC holdings purchase-event series.
+# Values are approximate and seeded for MVP demo purposes.
+# Cumulative totals are based on public 8-K disclosures through early 2026.
+# The *final* cumulative total (~450k BTC) targets reality for early 2026;
+# intermediate dates are illustrative for the demo and should not be relied on for analysis.
+date,btc_total,source_url
+2024-11-11,279420,https://www.strategy.com/press
+2024-11-18,331200,https://www.strategy.com/press
+2024-11-25,386700,https://www.strategy.com/press
+2024-12-02,402100,https://www.strategy.com/press
+2024-12-09,423650,https://www.strategy.com/press
+2024-12-23,439000,https://www.strategy.com/press
+2025-01-13,446400,https://www.strategy.com/press
+2025-02-10,448000,https://www.strategy.com/press
+2025-03-17,449000,https://www.strategy.com/press
+2025-06-16,449500,https://www.strategy.com/press
+2025-09-15,449800,https://www.strategy.com/press
+2025-12-01,449900,https://www.strategy.com/press
+2026-01-26,450000,https://www.strategy.com/press
+2026-02-16,450100,https://www.strategy.com/press
+2026-03-30,450200,https://www.strategy.com/press

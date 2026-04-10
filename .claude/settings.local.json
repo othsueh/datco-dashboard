@@ -13,7 +13,15 @@
       "Bash(cp -R /private/tmp/datco_bootstrap/datco-dashboard/app /Users/othsueh/Development/350small_project/DATco_Dashboard/app)",
       "Bash(cp -R /private/tmp/datco_bootstrap/datco-dashboard/public /Users/othsueh/Development/350small_project/DATco_Dashboard/public)",
       "Bash(cp -R /private/tmp/datco_bootstrap/datco-dashboard/node_modules /Users/othsueh/Development/350small_project/DATco_Dashboard/node_modules)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(node:*)",
+      "Bash(npm run:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/company/MSTR)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/compare)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(uv run python -c \":*)",
+      "Bash(uv run:*)"
     ]
   }
 }
