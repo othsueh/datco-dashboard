@@ -5,27 +5,15 @@
   "brand_color": "#ef4444",
   "series": [
     {
-      "date": "2025-06-12",
-      "close": 10.21,
-      "market_cap": 3647665453.63,
-      "shares_outstanding": 357264000,
-      "btc_holdings": 16728,
-      "btc_price": 105979.23,
-      "mnav": 2.0575,
-      "premium_pct": 105.75,
-      "btc_per_kshares": 0.046823,
-      "corr_30d": null
-    },
-    {
       "date": "2025-06-13",
       "close": 9.72,
-      "market_cap": 3472606175.4,
-      "shares_outstanding": 357264000,
+      "market_cap": 3647663224.69,
+      "shares_outstanding": 375273984,
       "btc_holdings": 16728,
       "btc_price": 106045.56,
-      "mnav": 1.9576,
-      "premium_pct": 95.76,
-      "btc_per_kshares": 0.046823,
+      "mnav": 2.0563,
+      "premium_pct": 105.63,
+      "btc_per_kshares": 0.044575,
       "corr_30d": null
     },
     {
@@ -362,7 +350,7 @@
       "mnav": 2.615,
       "premium_pct": 161.5,
       "btc_per_kshares": 0.047304,
-      "corr_30d": 0.4234
+      "corr_30d": null
     },
     {
       "date": "2025-07-28",
@@ -374,7 +362,7 @@
       "mnav": 2.5994,
       "premium_pct": 159.94,
       "btc_per_kshares": 0.047304,
-      "corr_30d": 0.4206
+      "corr_30d": 0.4313
     },
     {
       "date": "2025-07-29",
@@ -3010,24 +2998,36 @@
       "market_cap": 9884872921.39,
       "shares_outstanding": 378151230,
       "btc_holdings": 17175,
-      "btc_price": 63750.77,
-      "mnav": 9.0279,
-      "premium_pct": 802.79,
+      "btc_price": 63552.3,
+      "mnav": 9.0561,
+      "premium_pct": 805.61,
       "btc_per_kshares": 0.045418,
-      "corr_30d": 0.5565
+      "corr_30d": 0.5549
+    },
+    {
+      "date": "2026-06-12",
+      "close": 26.61,
+      "market_cap": 10062604461.11,
+      "shares_outstanding": 378151230,
+      "btc_holdings": 17175,
+      "btc_price": 63709.56,
+      "mnav": 9.1962,
+      "premium_pct": 819.62,
+      "btc_per_kshares": 0.045418,
+      "corr_30d": 0.5487
     }
   ],
   "latest": {
-    "date": "2026-06-11",
-    "close": 26.14,
-    "market_cap": 9884872921.39,
+    "date": "2026-06-12",
+    "close": 26.61,
+    "market_cap": 10062604461.11,
     "shares_outstanding": 378151230,
     "btc_holdings": 17175,
-    "btc_price": 63750.77,
-    "mnav": 9.0279,
-    "premium_pct": 802.79,
+    "btc_price": 63709.56,
+    "mnav": 9.1962,
+    "premium_pct": 819.62,
     "btc_per_kshares": 0.045418,
-    "corr_30d": 0.5565
+    "corr_30d": 0.5487
   },
-  "last_updated": "2026-06-12T11:05:11Z"
+  "last_updated": "2026-06-13T10:05:37Z"
 }
