@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T13:21:14Z",
-  "btc_price": 63537.74,
+  "generated_at": "2026-06-16T12:14:52Z",
+  "btc_price": 66483.86,
   "total_btc_tracked": 551496,
   "rows": [
     {
@@ -27,31 +27,31 @@
       "ticker": "MARA",
       "name": "MARA Holdings",
       "brand_color": "#3b82f6",
-      "price": 14.08,
-      "mnav": 1.7243,
-      "premium_pct": 72.43,
+      "price": 14.64,
+      "mnav": 1.7134,
+      "premium_pct": 71.34,
       "btc_holdings": 49000,
-      "corr_30d": 0.6661
+      "corr_30d": 0.7359
     },
     {
       "ticker": "SMLR",
       "name": "Strive (ex-Semler Scientific)",
       "brand_color": "#a855f7",
-      "price": 15.15,
-      "mnav": 3.7607,
-      "premium_pct": 276.07,
+      "price": 16.67,
+      "mnav": 3.9546,
+      "premium_pct": 295.46,
       "btc_holdings": 5021,
-      "corr_30d": 0.7869
+      "corr_30d": 0.8026
     },
     {
       "ticker": "RIOT",
       "name": "Riot Platforms",
       "brand_color": "#ef4444",
-      "price": 26.61,
-      "mnav": 9.2211,
-      "premium_pct": 822.11,
+      "price": 27.38,
+      "mnav": 9.0675,
+      "premium_pct": 806.75,
       "btc_holdings": 17175,
-      "corr_30d": 0.5491
+      "corr_30d": 0.507
     }
   ]
 }
