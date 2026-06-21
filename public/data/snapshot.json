@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T10:11:07Z",
+  "generated_at": "2026-06-21T10:35:33Z",
   "btc_price": 62900.23,
   "total_btc_tracked": 551496,
   "rows": [
@@ -17,11 +17,11 @@
       "ticker": "MTPLF",
       "name": "Metaplanet Inc.",
       "brand_color": "#22c55e",
-      "price": 1.57,
-      "mnav": 1.0373,
-      "premium_pct": 3.73,
+      "price": 1.42,
+      "mnav": 0.9643,
+      "premium_pct": -3.57,
       "btc_holdings": 30100,
-      "corr_30d": 0.7138
+      "corr_30d": 0.7
     },
     {
       "ticker": "MARA",
