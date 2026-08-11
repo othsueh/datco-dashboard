@@ -295,13 +295,13 @@
     {
       "date": "2025-09-15",
       "close": 16.24,
-      "market_cap": 6042173244.76,
-      "shares_outstanding": 372055008,
+      "market_cap": 6016237575.37,
+      "shares_outstanding": 370457984,
       "btc_holdings": 47500,
       "btc_price": 115356.68,
-      "mnav": 1.1027,
-      "premium_pct": 10.27,
-      "btc_per_kshares": 0.127669,
+      "mnav": 1.098,
+      "premium_pct": 9.8,
+      "btc_per_kshares": 0.12822,
       "corr_30d": null
     },
     {
@@ -751,13 +751,13 @@
     {
       "date": "2025-11-06",
       "close": 15.96,
-      "market_cap": 5912507778.93,
-      "shares_outstanding": 370457880,
+      "market_cap": 6035822288.31,
+      "shares_outstanding": 378184353,
       "btc_holdings": 48500,
       "btc_price": 101261.65,
-      "mnav": 1.2039,
-      "premium_pct": 20.39,
-      "btc_per_kshares": 0.130919,
+      "mnav": 1.229,
+      "premium_pct": 22.9,
+      "btc_per_kshares": 0.128244,
       "corr_30d": 0.6616
     },
     {
@@ -3003,19 +3003,31 @@
       "premium_pct": 21.02,
       "btc_per_kshares": 0.128518,
       "corr_30d": 0.3018
+    },
+    {
+      "date": "2026-08-10",
+      "close": 9.56,
+      "market_cap": 3693021441.42,
+      "shares_outstanding": 386299297,
+      "btc_holdings": 49000,
+      "btc_price": 64014.07,
+      "mnav": 1.1774,
+      "premium_pct": 17.74,
+      "btc_per_kshares": 0.126845,
+      "corr_30d": 0.3165
     }
   ],
   "latest": {
-    "date": "2026-08-07",
-    "close": 10.09,
-    "market_cap": 3847019433.45,
-    "shares_outstanding": 381270503,
+    "date": "2026-08-10",
+    "close": 9.56,
+    "market_cap": 3693021441.42,
+    "shares_outstanding": 386299297,
     "btc_holdings": 49000,
-    "btc_price": 64872.6,
-    "mnav": 1.2102,
-    "premium_pct": 21.02,
-    "btc_per_kshares": 0.128518,
-    "corr_30d": 0.3018
+    "btc_price": 64014.07,
+    "mnav": 1.1774,
+    "premium_pct": 17.74,
+    "btc_per_kshares": 0.126845,
+    "corr_30d": 0.3165
   },
-  "last_updated": "2026-08-10T08:43:56Z"
+  "last_updated": "2026-08-11T08:12:15Z"
 }
