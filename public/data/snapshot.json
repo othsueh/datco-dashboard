@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:55:32Z",
+  "generated_at": "2026-08-18T07:43:41Z",
   "btc_price": 62996.4,
   "total_btc_tracked": 551496,
   "rows": [
@@ -21,7 +21,7 @@
       "mnav": 0.9257,
       "premium_pct": -7.43,
       "btc_holdings": 30100,
-      "corr_30d": 0.6857
+      "corr_30d": 0.64
     },
     {
       "ticker": "MARA",
