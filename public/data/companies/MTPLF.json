@@ -5,18 +5,6 @@
   "brand_color": "#22c55e",
   "series": [
     {
-      "date": "2025-09-03",
-      "close": 5.43,
-      "market_cap": 3993585727.19,
-      "shares_outstanding": 735467008,
-      "btc_holdings": 15555,
-      "btc_price": 111751.65,
-      "mnav": 2.2974,
-      "premium_pct": 129.74,
-      "btc_per_kshares": 0.02115,
-      "corr_30d": null
-    },
-    {
       "date": "2025-09-04",
       "close": 4.93,
       "market_cap": 3629529642.4,
@@ -362,7 +350,7 @@
       "mnav": 2.062,
       "premium_pct": 106.2,
       "btc_per_kshares": 0.013082,
-      "corr_30d": 0.1466
+      "corr_30d": null
     },
     {
       "date": "2025-10-15",
@@ -374,7 +362,7 @@
       "mnav": 2.0444,
       "premium_pct": 104.44,
       "btc_per_kshares": 0.013151,
-      "corr_30d": 0.1467
+      "corr_30d": 0.1341
     },
     {
       "date": "2025-10-16",
@@ -3022,24 +3010,36 @@
       "market_cap": 2515686430.87,
       "shares_outstanding": 1345286858,
       "btc_holdings": 30100,
-      "btc_price": 77927.71,
-      "mnav": 1.0725,
-      "premium_pct": 7.25,
+      "btc_price": 77297.13,
+      "mnav": 1.0813,
+      "premium_pct": 8.13,
       "btc_per_kshares": 0.022374,
-      "corr_30d": 0.6454
+      "corr_30d": 0.6557
+    },
+    {
+      "date": "2026-09-03",
+      "close": 1.95,
+      "market_cap": 2619273548.45,
+      "shares_outstanding": 1345286858,
+      "btc_holdings": 30100,
+      "btc_price": 81197.81,
+      "mnav": 1.0717,
+      "premium_pct": 7.17,
+      "btc_per_kshares": 0.022374,
+      "corr_30d": 0.647
     }
   ],
   "latest": {
-    "date": "2026-09-02",
-    "close": 1.87,
-    "market_cap": 2515686430.87,
+    "date": "2026-09-03",
+    "close": 1.95,
+    "market_cap": 2619273548.45,
     "shares_outstanding": 1345286858,
     "btc_holdings": 30100,
-    "btc_price": 77927.71,
-    "mnav": 1.0725,
-    "premium_pct": 7.25,
+    "btc_price": 81197.81,
+    "mnav": 1.0717,
+    "premium_pct": 7.17,
     "btc_per_kshares": 0.022374,
-    "corr_30d": 0.6454
+    "corr_30d": 0.647
   },
-  "last_updated": "2026-09-03T12:01:57Z"
+  "last_updated": "2026-09-04T12:03:41Z"
 }
