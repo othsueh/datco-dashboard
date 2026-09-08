@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:25:50Z",
+  "generated_at": "2026-09-08T12:04:25Z",
   "btc_price": 79671.26,
   "total_btc_tracked": 551496,
   "rows": [
@@ -18,8 +18,8 @@
       "name": "Metaplanet Inc.",
       "brand_color": "#22c55e",
       "price": 1.8,
-      "mnav": 0.9644,
-      "premium_pct": -3.56,
+      "mnav": 1.0126,
+      "premium_pct": 1.26,
       "btc_holdings": 30100,
       "corr_30d": 0.6523
     },
@@ -38,8 +38,8 @@
       "name": "Strive (ex-Semler Scientific)",
       "brand_color": "#a855f7",
       "price": 27.14,
-      "mnav": 6.0846,
-      "premium_pct": 508.46,
+      "mnav": 6.3274,
+      "premium_pct": 532.74,
       "btc_holdings": 5021,
       "corr_30d": 0.7605
     },
