@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-09-18T12:09:52Z",
-  "btc_price": 77968.98,
+  "generated_at": "2026-09-19T11:52:36Z",
+  "btc_price": 81269.22,
   "total_btc_tracked": 551496,
   "rows": [
     {
       "ticker": "MSTR",
       "name": "Strategy Inc.",
       "brand_color": "#f97316",
-      "price": 132.25,
-      "mnav": 1.4968,
-      "premium_pct": 49.68,
+      "price": 153.92,
+      "mnav": 1.6713,
+      "premium_pct": 67.13,
       "btc_holdings": 450200,
-      "corr_30d": 0.8168
+      "corr_30d": 0.8332
     },
     {
       "ticker": "MTPLF",
       "name": "Metaplanet Inc.",
       "brand_color": "#22c55e",
-      "price": 1.55,
-      "mnav": 0.8921,
-      "premium_pct": -10.79,
+      "price": 1.68,
+      "mnav": 0.9253,
+      "premium_pct": -7.47,
       "btc_holdings": 30100,
-      "corr_30d": 0.6949
+      "corr_30d": 0.7345
     },
     {
       "ticker": "MARA",
       "name": "MARA Holdings",
       "brand_color": "#3b82f6",
-      "price": 11.64,
-      "mnav": 1.177,
-      "premium_pct": 17.7,
+      "price": 13.24,
+      "mnav": 1.2844,
+      "premium_pct": 28.44,
       "btc_holdings": 49000,
-      "corr_30d": 0.6236
+      "corr_30d": 0.657
     },
     {
       "ticker": "SMLR",
       "name": "Strive (ex-Semler Scientific)",
       "brand_color": "#a855f7",
-      "price": 28.28,
-      "mnav": 6.8604,
-      "premium_pct": 586.04,
+      "price": 30.09,
+      "mnav": 7.003,
+      "premium_pct": 600.3,
       "btc_holdings": 5021,
-      "corr_30d": 0.8156
+      "corr_30d": 0.7991
     },
     {
       "ticker": "RIOT",
       "name": "Riot Platforms",
       "brand_color": "#ef4444",
-      "price": 21.88,
-      "mnav": 6.1314,
-      "premium_pct": 513.14,
+      "price": 23.75,
+      "mnav": 6.3852,
+      "premium_pct": 538.52,
       "btc_holdings": 17175,
-      "corr_30d": 0.4432
+      "corr_30d": 0.4644
     }
   ]
 }
