@@ -5,18 +5,6 @@
   "brand_color": "#ef4444",
   "series": [
     {
-      "date": "2025-09-26",
-      "close": 17.69,
-      "market_cap": 6832233775.26,
-      "shares_outstanding": 386220100,
-      "btc_holdings": 16900,
-      "btc_price": 109660.37,
-      "mnav": 3.6866,
-      "premium_pct": 268.66,
-      "btc_per_kshares": 0.043757,
-      "corr_30d": null
-    },
-    {
       "date": "2025-09-29",
       "close": 19.78,
       "market_cap": 7639433843.2,
@@ -362,7 +350,7 @@
       "mnav": 3.7342,
       "premium_pct": 273.42,
       "btc_per_kshares": 0.045857,
-      "corr_30d": 0.5858
+      "corr_30d": null
     },
     {
       "date": "2025-11-07",
@@ -374,7 +362,7 @@
       "mnav": 3.5946,
       "premium_pct": 259.46,
       "btc_per_kshares": 0.045857,
-      "corr_30d": 0.5708
+      "corr_30d": 0.5209
     },
     {
       "date": "2025-11-10",
@@ -3010,11 +2998,11 @@
       "market_cap": 8630955505.0,
       "shares_outstanding": 375258935,
       "btc_holdings": 17175,
-      "btc_price": 84155.78,
-      "mnav": 5.9714,
-      "premium_pct": 497.14,
+      "btc_price": 84075.72,
+      "mnav": 5.9771,
+      "premium_pct": 497.71,
       "btc_per_kshares": 0.045768,
-      "corr_30d": 0.4449
+      "corr_30d": 0.4453
     }
   ],
   "latest": {
@@ -3023,11 +3011,11 @@
     "market_cap": 8630955505.0,
     "shares_outstanding": 375258935,
     "btc_holdings": 17175,
-    "btc_price": 84155.78,
-    "mnav": 5.9714,
-    "premium_pct": 497.14,
+    "btc_price": 84075.72,
+    "mnav": 5.9771,
+    "premium_pct": 497.71,
     "btc_per_kshares": 0.045768,
-    "corr_30d": 0.4449
+    "corr_30d": 0.4453
   },
-  "last_updated": "2026-09-26T12:09:20Z"
+  "last_updated": "2026-09-27T12:54:10Z"
 }
