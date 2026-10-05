@@ -5,27 +5,15 @@
   "brand_color": "#a855f7",
   "series": [
     {
-      "date": "2025-10-03",
-      "close": 52.0,
-      "market_cap": 33800103428.0,
-      "shares_outstanding": 650001989,
-      "btc_holdings": 4636,
-      "btc_price": 122294.92,
-      "mnav": 59.6165,
-      "premium_pct": 5861.65,
-      "btc_per_kshares": 0.007132,
-      "corr_30d": null
-    },
-    {
       "date": "2025-10-06",
       "close": 50.6,
-      "market_cap": 32890099651.58,
-      "shares_outstanding": 650001989,
+      "market_cap": 32148217704.55,
+      "shares_outstanding": 635340290,
       "btc_holdings": 4636,
       "btc_price": 124739.81,
-      "mnav": 56.8744,
-      "premium_pct": 5587.44,
-      "btc_per_kshares": 0.007132,
+      "mnav": 55.5915,
+      "premium_pct": 5459.15,
+      "btc_per_kshares": 0.007297,
       "corr_30d": null
     },
     {
@@ -362,7 +350,7 @@
       "mnav": 39.4154,
       "premium_pct": 3841.54,
       "btc_per_kshares": 0.005866,
-      "corr_30d": 0.4465
+      "corr_30d": null
     },
     {
       "date": "2025-11-14",
@@ -374,7 +362,7 @@
       "mnav": 38.8549,
       "premium_pct": 3785.49,
       "btc_per_kshares": 0.005866,
-      "corr_30d": 0.4398
+      "corr_30d": 0.4498
     },
     {
       "date": "2025-11-17",
@@ -3010,11 +2998,11 @@
       "market_cap": 2932481248.68,
       "shares_outstanding": 97651721,
       "btc_holdings": 5021,
-      "btc_price": 84826.04,
-      "mnav": 6.8852,
-      "premium_pct": 588.52,
+      "btc_price": 84506.47,
+      "mnav": 6.9112,
+      "premium_pct": 591.12,
       "btc_per_kshares": 0.051417,
-      "corr_30d": 0.6413
+      "corr_30d": 0.643
     }
   ],
   "latest": {
@@ -3023,11 +3011,11 @@
     "market_cap": 2932481248.68,
     "shares_outstanding": 97651721,
     "btc_holdings": 5021,
-    "btc_price": 84826.04,
-    "mnav": 6.8852,
-    "premium_pct": 588.52,
+    "btc_price": 84506.47,
+    "mnav": 6.9112,
+    "premium_pct": 591.12,
     "btc_per_kshares": 0.051417,
-    "corr_30d": 0.6413
+    "corr_30d": 0.643
   },
-  "last_updated": "2026-10-03T12:23:41Z"
+  "last_updated": "2026-10-05T15:47:40Z"
 }
