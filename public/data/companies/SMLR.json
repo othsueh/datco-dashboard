@@ -5,18 +5,6 @@
   "brand_color": "#a855f7",
   "series": [
     {
-      "date": "2025-10-17",
-      "close": 16.68,
-      "market_cap": 12395386142.14,
-      "shares_outstanding": 743128652,
-      "btc_holdings": 4636,
-      "btc_price": 106483.89,
-      "mnav": 25.1092,
-      "premium_pct": 2410.92,
-      "btc_per_kshares": 0.006238,
-      "corr_30d": null
-    },
-    {
       "date": "2025-10-20",
       "close": 17.28,
       "market_cap": 12841263616.83,
@@ -362,7 +350,7 @@
       "mnav": 43.3444,
       "premium_pct": 4234.44,
       "btc_per_kshares": 0.005685,
-      "corr_30d": 0.5995
+      "corr_30d": null
     },
     {
       "date": "2025-12-01",
@@ -374,7 +362,7 @@
       "mnav": 42.8017,
       "premium_pct": 4180.17,
       "btc_per_kshares": 0.005685,
-      "corr_30d": 0.6044
+      "corr_30d": 0.6187
     },
     {
       "date": "2025-12-02",
@@ -2623,61 +2611,61 @@
     {
       "date": "2026-09-01",
       "close": 24.0,
-      "market_cap": 2152402152.0,
-      "shares_outstanding": 89683423,
+      "market_cap": 2238301680.0,
+      "shares_outstanding": 93262570,
       "btc_holdings": 5021,
       "btc_price": 77416.44,
-      "mnav": 5.5373,
-      "premium_pct": 453.73,
-      "btc_per_kshares": 0.055986,
+      "mnav": 5.7583,
+      "premium_pct": 475.83,
+      "btc_per_kshares": 0.053837,
       "corr_30d": 0.7707
     },
     {
       "date": "2026-09-02",
       "close": 24.32,
-      "market_cap": 2181100819.99,
-      "shares_outstanding": 89683423,
+      "market_cap": 2268145673.94,
+      "shares_outstanding": 93262570,
       "btc_holdings": 5021,
       "btc_price": 77297.13,
-      "mnav": 5.6198,
-      "premium_pct": 461.98,
-      "btc_per_kshares": 0.055986,
+      "mnav": 5.8441,
+      "premium_pct": 484.41,
+      "btc_per_kshares": 0.053837,
       "corr_30d": 0.7687
     },
     {
       "date": "2026-09-03",
       "close": 26.82,
-      "market_cap": 2405309377.49,
-      "shares_outstanding": 89683423,
+      "market_cap": 2501302098.94,
+      "shares_outstanding": 93262570,
       "btc_holdings": 5021,
       "btc_price": 81264.7,
-      "mnav": 5.8949,
-      "premium_pct": 489.49,
-      "btc_per_kshares": 0.055986,
+      "mnav": 6.1302,
+      "premium_pct": 513.02,
+      "btc_per_kshares": 0.053837,
       "corr_30d": 0.7745
     },
     {
       "date": "2026-09-04",
       "close": 27.14,
-      "market_cap": 2434008045.48,
-      "shares_outstanding": 89683423,
+      "market_cap": 2531146092.88,
+      "shares_outstanding": 93262570,
       "btc_holdings": 5021,
       "btc_price": 79671.26,
-      "mnav": 6.0846,
-      "premium_pct": 508.46,
-      "btc_per_kshares": 0.055986,
+      "mnav": 6.3274,
+      "premium_pct": 532.74,
+      "btc_per_kshares": 0.053837,
       "corr_30d": 0.7605
     },
     {
       "date": "2026-09-08",
       "close": 27.16,
-      "market_cap": 2435801755.0,
-      "shares_outstanding": 89683423,
+      "market_cap": 2533011386.97,
+      "shares_outstanding": 93262570,
       "btc_holdings": 5021,
       "btc_price": 78450.75,
-      "mnav": 6.1838,
-      "premium_pct": 518.38,
-      "btc_per_kshares": 0.055986,
+      "mnav": 6.4306,
+      "premium_pct": 543.06,
+      "btc_per_kshares": 0.053837,
       "corr_30d": 0.7791
     },
     {
@@ -3010,11 +2998,11 @@
       "market_cap": 2431620188.14,
       "shares_outstanding": 100938986,
       "btc_holdings": 5021,
-      "btc_price": 81472.34,
-      "mnav": 5.9442,
-      "premium_pct": 494.42,
+      "btc_price": 81523.66,
+      "mnav": 5.9405,
+      "premium_pct": 494.05,
       "btc_per_kshares": 0.049743,
-      "corr_30d": 0.524
+      "corr_30d": 0.5225
     }
   ],
   "latest": {
@@ -3023,11 +3011,11 @@
     "market_cap": 2431620188.14,
     "shares_outstanding": 100938986,
     "btc_holdings": 5021,
-    "btc_price": 81472.34,
-    "mnav": 5.9442,
-    "premium_pct": 494.42,
+    "btc_price": 81523.66,
+    "mnav": 5.9405,
+    "premium_pct": 494.05,
     "btc_per_kshares": 0.049743,
-    "corr_30d": 0.524
+    "corr_30d": 0.5225
   },
-  "last_updated": "2026-10-17T11:30:40Z"
+  "last_updated": "2026-10-18T12:00:10Z"
 }
