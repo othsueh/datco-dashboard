@@ -5,22 +5,10 @@
   "brand_color": "#a855f7",
   "series": [
     {
-      "date": "2025-11-05",
-      "close": 29.2,
-      "market_cap": 23078149121.39,
-      "shares_outstanding": 790347552,
-      "btc_holdings": 4636,
-      "btc_price": 103878.93,
-      "mnav": 47.9215,
-      "premium_pct": 4692.15,
-      "btc_per_kshares": 0.005866,
-      "corr_30d": null
-    },
-    {
       "date": "2025-11-06",
       "close": 29.0,
-      "market_cap": 22920079008.0,
-      "shares_outstanding": 790347552,
+      "market_cap": 22920078979.0,
+      "shares_outstanding": 790347551,
       "btc_holdings": 4636,
       "btc_price": 101261.65,
       "mnav": 48.8234,
@@ -362,7 +350,7 @@
       "mnav": 35.7253,
       "premium_pct": 3472.53,
       "btc_per_kshares": 0.005332,
-      "corr_30d": 0.656
+      "corr_30d": null
     },
     {
       "date": "2025-12-18",
@@ -374,7 +362,7 @@
       "mnav": 36.4764,
       "premium_pct": 3547.64,
       "btc_per_kshares": 0.005332,
-      "corr_30d": 0.6505
+      "corr_30d": 0.6619
     },
     {
       "date": "2025-12-19",
@@ -3010,24 +2998,36 @@
       "market_cap": 2918429027.99,
       "shares_outstanding": 127331109,
       "btc_holdings": 5021,
-      "btc_price": 77215.2,
-      "mnav": 7.5276,
-      "premium_pct": 652.76,
+      "btc_price": 80442.71,
+      "mnav": 7.2256,
+      "premium_pct": 622.56,
       "btc_per_kshares": 0.039433,
-      "corr_30d": 0.6445
+      "corr_30d": 0.737
+    },
+    {
+      "date": "2026-11-05",
+      "close": 20.59,
+      "market_cap": 2621747553.74,
+      "shares_outstanding": 127331109,
+      "btc_holdings": 5021,
+      "btc_price": 75948.05,
+      "mnav": 6.8752,
+      "premium_pct": 587.52,
+      "btc_per_kshares": 0.039433,
+      "corr_30d": 0.7581
     }
   ],
   "latest": {
-    "date": "2026-11-04",
-    "close": 22.92,
-    "market_cap": 2918429027.99,
+    "date": "2026-11-05",
+    "close": 20.59,
+    "market_cap": 2621747553.74,
     "shares_outstanding": 127331109,
     "btc_holdings": 5021,
-    "btc_price": 77215.2,
-    "mnav": 7.5276,
-    "premium_pct": 652.76,
+    "btc_price": 75948.05,
+    "mnav": 6.8752,
+    "premium_pct": 587.52,
     "btc_per_kshares": 0.039433,
-    "corr_30d": 0.6445
+    "corr_30d": 0.7581
   },
-  "last_updated": "2026-11-05T15:18:09Z"
+  "last_updated": "2026-11-06T14:54:20Z"
 }
