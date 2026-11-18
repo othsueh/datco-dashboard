@@ -5,18 +5,6 @@
   "brand_color": "#22c55e",
   "series": [
     {
-      "date": "2025-11-17",
-      "close": 2.29,
-      "market_cap": 2610037506.95,
-      "shares_outstanding": 1142248319,
-      "btc_holdings": 22000,
-      "btc_price": 92100.36,
-      "mnav": 1.2881,
-      "premium_pct": 28.81,
-      "btc_per_kshares": 0.01926,
-      "corr_30d": null
-    },
-    {
       "date": "2025-11-18",
       "close": 2.32,
       "market_cap": 2650016023.83,
@@ -362,7 +350,7 @@
       "mnav": 1.2128,
       "premium_pct": 21.28,
       "btc_per_kshares": 0.024075,
-      "corr_30d": 0.4926
+      "corr_30d": null
     },
     {
       "date": "2025-12-31",
@@ -374,7 +362,7 @@
       "mnav": 1.1857,
       "premium_pct": 18.57,
       "btc_per_kshares": 0.024075,
-      "corr_30d": 0.495
+      "corr_30d": 0.4934
     },
     {
       "date": "2026-01-02",
@@ -3010,24 +2998,36 @@
       "market_cap": 1584760246.25,
       "shares_outstanding": 1267808197,
       "btc_holdings": 30100,
-      "btc_price": 63677.48,
-      "mnav": 0.8268,
-      "premium_pct": -17.32,
+      "btc_price": 64840.87,
+      "mnav": 0.812,
+      "premium_pct": -18.8,
       "btc_per_kshares": 0.023742,
-      "corr_30d": 0.6512
+      "corr_30d": 0.6655
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1.22,
+      "market_cap": 1542922585.42,
+      "shares_outstanding": 1267808197,
+      "btc_holdings": 30100,
+      "btc_price": 62608.96,
+      "mnav": 0.8187,
+      "premium_pct": -18.13,
+      "btc_per_kshares": 0.023742,
+      "corr_30d": 0.6642
     }
   ],
   "latest": {
-    "date": "2026-11-16",
-    "close": 1.25,
-    "market_cap": 1584760246.25,
+    "date": "2026-11-17",
+    "close": 1.22,
+    "market_cap": 1542922585.42,
     "shares_outstanding": 1267808197,
     "btc_holdings": 30100,
-    "btc_price": 63677.48,
-    "mnav": 0.8268,
-    "premium_pct": -17.32,
+    "btc_price": 62608.96,
+    "mnav": 0.8187,
+    "premium_pct": -18.13,
     "btc_per_kshares": 0.023742,
-    "corr_30d": 0.6512
+    "corr_30d": 0.6642
   },
-  "last_updated": "2026-11-17T16:48:05Z"
+  "last_updated": "2026-11-18T16:19:26Z"
 }
